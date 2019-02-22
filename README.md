@@ -4,7 +4,6 @@ A solar system simulation for university
 ## Content
 In this repository you can find:
 + The code for executing the program
-+ A video explanation in Spanish
 + An animated gif of the execution
 
 ## Code Guide
