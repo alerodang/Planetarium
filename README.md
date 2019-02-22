@@ -7,6 +7,17 @@ In this repository you can find:
 + A video explanation in spanish
 + An animated gif of the execution
 
+## Code Guide
+In the draw function we have three main function calls:
+### drawSun()
+This function draws and give style to the sun.
+### drawPlanets()
+This function draws and gives style and movement to the different drawed planets. 
+In addition this function calls drawSatellite which draws a satellite around Jupiter planet.
+### drawShip()
+This function draws and gives style and movement to the spaceShip.
+
+
 ## Controls
 When executing the code you can move the spaceShip in two ways:
 
